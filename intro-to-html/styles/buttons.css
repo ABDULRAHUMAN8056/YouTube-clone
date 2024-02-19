@@ -1,0 +1,28 @@
+.Amazon{
+    color:rgb(0, 133, 133);
+}
+.stock{
+    color:rgb(0, 200, 0);
+}
+.cart{
+    width: 120px;
+    height:30px;
+    border-radius: 15px;
+    background-color: rgb(255, 216, 20);
+    font-weight: bold;
+    margin-right: 5px;
+}
+.cart:hover{
+    cursor: pointer;
+    background-color: green;
+}
+.cart:active{
+    background-color: green;
+}
+.now{
+    width: 120px;
+    height:30px;
+    border-radius: 15px;
+    background-color: rgb(255, 164, 28);
+    font-weight: bold;
+}
